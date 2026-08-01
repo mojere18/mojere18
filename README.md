@@ -2,7 +2,7 @@
 - 👀 I’m interested in Linux Administration, Cloud Infrastructure, Virtualization, and System Security.
 - 🌱 I’m currently learning advanced Linux system administration, VMware vSphere (ESXi & vCenter), automation, and enterprise infrastructure management.
 - 💞️ I’m looking to collaborate on open-source Linux projects, infrastructure automation, and system administration labs.
-- 📫 How to reach me www.linkedin.com/in/akinwumibusari
+- 📫 How to reach me https://www.linkedin.com/in/akinwumibusari/
 
 Skills & Technologies
 - Linux Administration (Ubuntu, Red Hat)
